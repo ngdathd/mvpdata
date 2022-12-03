@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LoginListUsersMVP</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="forgot_password">FORGOT PASSWORD</string>
+    <string name="confirm">Confirm</string>
+    <string name="change_password">CHANGE PASSWORD</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notification_invalidate">Username or password invalidate!</string>
+    <string name="notification_user_not_exist">Username does not exist!</string>
+    <string name="notification_fill_infor">Please fill in the information!</string>
+    <string name="notification_edittext_not_exist">EditText does not exist!</string>
+
+</resources>
